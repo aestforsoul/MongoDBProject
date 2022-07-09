@@ -10,7 +10,7 @@
     "debug": true
   },
   "local": {
-    "database": "mongodb://localhost:27017",
+    "database": "mongodb+srv://lishchynska:4052@homeworkproject.ueyoypj.mongodb.net/?retryWrites=true&w=majority",
     "dbName": "tc",
     "seed": true,
     "dbConfig": {
